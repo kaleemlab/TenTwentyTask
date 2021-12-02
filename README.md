@@ -3,4 +3,4 @@
 The project is based on TMDB API using Kotlin and MVVM architecture.
 Video Demo attached.
 
-![Alt text](ShortVideoDemo.gif) / ![](ShortVideoDemo.gif)
+![Alt text](ShortVideoDemo.gif)
